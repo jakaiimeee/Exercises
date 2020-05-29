@@ -1,4 +1,3 @@
-# Code your solution here
 def fact(n):
     if n == 0:
         data=1
@@ -6,6 +5,6 @@ def fact(n):
         data=n * fact(n-1)
     return data 
 
-n=int(input())
+n=int(input("a number"))
 result=fact(n)
 print(result)
