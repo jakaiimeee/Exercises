@@ -1,4 +1,3 @@
-# Code your solution here
 def count(*l):
     new_l=[]
     for i in l:
