@@ -1,10 +1,10 @@
-# Code your solution heree
+
 def ranger(number):
     if number >=0 and number <=100:
-        data="Hooray, Falls in my range"
+        data="GREATNESS"
     else:
-        data="Oops,outside range"
+        data="Oops"
     return data
-number=int(input())
+number=int(input("Any number"))
 result=ranger(number)
 print(result)
