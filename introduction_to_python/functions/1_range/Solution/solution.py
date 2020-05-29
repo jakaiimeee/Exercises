@@ -1,4 +1,3 @@
-# Code your solution here
 def ranger(number):
     if number >=0 and number <=100:
         data="GREATNESS"
