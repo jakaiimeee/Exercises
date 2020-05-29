@@ -1,4 +1,3 @@
-# Code your solution here
 def shut_down(x):
     if x=="true"or x=="True":
         data="SHUTTING DOWN"
